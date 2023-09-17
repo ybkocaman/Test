@@ -1,5 +1,5 @@
 .DS_Store
-.secretkeys.txt
+secretkeys.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
